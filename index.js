@@ -15,3 +15,9 @@ class Lunch{
     this.drink=drink;
   }
 }
+
+class Dinner{
+  constructor(salad,soup,entree,dessert){
+    
+  }
+}
